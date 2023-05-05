@@ -6,9 +6,9 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: Jared Tucker's ELEC4630 fastai Journey
+description: Hello! Welcome to my Blog on the fastai section of the ELEC4630. I will be using this blog to show my progress towards assignment 3 and reflect on what i have learnt. 
+github_username: Jrad98
 
 # Email and twitter are optional:
 email:
